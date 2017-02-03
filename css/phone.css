@@ -1,0 +1,123 @@
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+html{
+    font-size:62.5%;
+}
+img{
+    max-width: 100%;
+    border: 0;
+}
+object,embed{
+    max-width: 100%;
+}
+.container{
+    width: 100%;
+}
+ul li{
+    list-style-type: none;
+}
+.clear{
+    clear: both;
+}
+.more img{
+    display: none;
+}
+.logo{
+    width:100%;
+    background: #034B87;
+    text-align: center;
+}
+.Nav li{
+    width:25%;
+    float: left;
+    text-align: center;
+    line-height:30px;
+    background: #05487F;
+}
+.Nav li a{
+    font-size:1.4rem;
+    color: #FFF;
+    text-decoration: none;
+}
+.Nav li span{
+    display: none;
+}
+.about .top{
+    width:100%;
+    height:25px;
+    background:url(../image/about_bj.gif) no-repeat 0 0;
+}
+.content p{
+    font-size:1.4rem;
+    line-height:25px;
+}
+#ObjNews li{
+    float: left;
+    line-height: 24px;
+}
+.Index_News_list{
+    line-height:30px;
+    border-bottom: 1px #ccc dashed;
+}
+.Index_News_list a{
+    text-decoration: none;
+    color: #333;
+    font-size: 1.4rem;
+}
+.content p{
+    font-size: 1.4rem;
+    line-height: 24px;
+}
+.product .top{
+    border-bottom:1px solid #ddd;
+    width:100%;
+    height:25px;
+    background:url(../image/product_bj.gif) no-repeat 0 0;
+}
+.pannelList .News_imgList{
+    width:25%;
+    height:130px;
+    float: left;
+    text-align: center;
+}
+.pannelList .News_imgList img{
+    width:100%;
+    margin-bottom: 10px;
+    height:70px;
+}
+.foot{
+    background: #05487F;color: #FFF;
+    text-align: center;
+    font-size: 1.4rem;
+    padding-top: 10px;
+}
+.foot a{
+    color: #FFF;
+}
+.h10{
+    height:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
